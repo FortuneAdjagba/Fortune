@@ -12,7 +12,7 @@ I am a software engineer...
 
 <img src="https://profile-counter.glitch.me/FortuneAdjagba/count.svg" />
 
-Added the `Wed 14 Sep 2022`
+Added the \`Wed 14 Sep 2022\`
 
 Last update on Mon Aug 19 2024
 
