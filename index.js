@@ -32,9 +32,9 @@ function generateNewREADME() {
 
 const moodByDay = {
   1: 'hate',
-  2: 'wickedness',
+  2: 'viciousness',
   3: 'pleasure',
-  4: 'wickedness',
+  4: 'viciousness',
   5: 'cruelty',
   6: 'horror',
   7: 'love',
@@ -42,7 +42,7 @@ const moodByDay = {
 
 function getGabotSigning() {
   const mood = moodByDay[today.getDay() + 1];
-  return `🤖 This README.md is updated with ${mood}, by Gabot ❤️`;
+  return `🤖 This README.md is updated with ${mood}, by Fabot 🤠`;
 }
 
 function getTodayDate() {
